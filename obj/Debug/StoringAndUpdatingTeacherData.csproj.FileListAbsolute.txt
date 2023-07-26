@@ -1,0 +1,8 @@
+D:\Mphasis\.net\Self Learning\StoringAndUpdatingTeacherData\StoringAndUpdatingTeacherData\obj\Debug\StoringAndUpdatingTeacherData.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Self Learning\StoringAndUpdatingTeacherData\StoringAndUpdatingTeacherData\obj\Debug\StoringAndUpdatingTeacherData.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Self Learning\StoringAndUpdatingTeacherData\StoringAndUpdatingTeacherData\obj\Debug\StoringAndUpdatingTeacherData.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Self Learning\StoringAndUpdatingTeacherData\StoringAndUpdatingTeacherData\bin\Debug\StoringAndUpdatingTeacherData.exe.config
+D:\Mphasis\.net\Self Learning\StoringAndUpdatingTeacherData\StoringAndUpdatingTeacherData\bin\Debug\StoringAndUpdatingTeacherData.exe
+D:\Mphasis\.net\Self Learning\StoringAndUpdatingTeacherData\StoringAndUpdatingTeacherData\bin\Debug\StoringAndUpdatingTeacherData.pdb
+D:\Mphasis\.net\Self Learning\StoringAndUpdatingTeacherData\StoringAndUpdatingTeacherData\obj\Debug\StoringAndUpdatingTeacherData.exe
+D:\Mphasis\.net\Self Learning\StoringAndUpdatingTeacherData\StoringAndUpdatingTeacherData\obj\Debug\StoringAndUpdatingTeacherData.pdb
